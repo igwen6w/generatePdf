@@ -1,0 +1,8 @@
+# ide
+.idea
+
+# virtual environment
+.venv
+
+# compiled python files
+files
